@@ -1,8 +1,8 @@
 ###########
 # site.title
 
-title: atashzadeh
-description: a minimal, text focused blog theme
+title: atashzadeh | آتشزاده
+description: blog & portfolio site
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://atashzadeh.com" # the base hostname & protocol for your site
 # host: 0.0.0.0
@@ -45,7 +45,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
+permalink: /post/:slug
 timezone: America/New_York
 future: false
 
