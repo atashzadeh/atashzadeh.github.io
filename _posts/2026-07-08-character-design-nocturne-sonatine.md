@@ -1,7 +1,8 @@
 ---
 layout: post
 title: character design - nocturne & sonatine
-date: 2026-06-07 18:15:00 +0000
+subtitle: current listen - depeche mode | memento mori (2023)
+date: 2026-07-08 18:15:00 +0000
 tags:
 - illustration
 
