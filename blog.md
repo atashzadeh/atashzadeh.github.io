@@ -1,8 +1,6 @@
 ---
 layout: blog
-title: Blog
-description: Blog
+title: blog
+description: blog
 permalink: /blog
 ---
-
-Find entries below. 
