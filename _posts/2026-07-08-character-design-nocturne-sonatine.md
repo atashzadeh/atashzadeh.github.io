@@ -4,7 +4,7 @@ title: character design - nocturne & sonatine
 subtitle: current listen - depeche mode | memento mori (2023)
 date: 2026-07-08 18:15:00 +0000
 tags:
-- illustration
+- character-design
 
 ---
 

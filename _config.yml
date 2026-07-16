@@ -58,8 +58,8 @@ exclude: [vendor]
 Blog: /blog
 
 # Add general links to site pages here
-links:
-  # Resume: /assets/resume.pdf
+# links:
+#   Email: mailto:chris@barry.im
   
 
 # Add links for more focus here

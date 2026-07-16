@@ -4,7 +4,7 @@ title: character design - sonatine addendum
 subtitle: current listen - my chemical romance | three cheers for sweet revenge (2023)
 date: 2026-07-09 12:30:00 +0000
 tags:
-- illustration
+- character-design
 
 ---
 
