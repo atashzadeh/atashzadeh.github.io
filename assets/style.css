@@ -135,10 +135,10 @@ a:visited {
 }
 
 /* External link marker */
-a[href^="http"]:where(:not([href*="knhash.in/"])):not(:has(img))::after {
+/*a[href^="http"]:where(:not([href*="knhash.in/"])):not(:has(img))::after {
     content: "↗";
     font-family: var(--font-monospace);
-}
+}*/
 
 .title:hover {
     text-decoration: none;
