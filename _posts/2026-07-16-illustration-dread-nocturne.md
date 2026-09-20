@@ -5,6 +5,8 @@ subtitle: current listen - enya | shepherd moons (1991)
 date: 2026-07-16 09:30:00 +0000
 tags:
 - illustration
+portfolio_captions:
+  nocturne_dread_portfolio: "digital illustration, 2026"
 
 ---
 
