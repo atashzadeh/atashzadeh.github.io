@@ -1,0 +1,60 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<main>
+
+    {% include header.html %}
+
+    {{ content }}
+
+    <div class="portfolio-grid">
+        {% for post in site.posts %}
+        {% assign post_date = post.date | date: "%Y-%m-%d" %}
+        {% assign folder = "/assets/images/" | append: post_date | append: "/" %}
+        {% for file in site.static_files %}
+        {% if file.path contains folder %}
+        {% assign filenameparts = file.path | split: "/" %}
+        {% assign filename = filenameparts | last | remove: file.extname %}
+        {% assign filename_size = filename | size %}
+        {% if filename_size >= 10 %}
+        {% assign filename_suffix = filename | slice: -10, 10 %}
+        {% if filename_suffix == "_portfolio" %}
+        {% assign caption = post.portfolio_captions[filename] %}
+        <a class="portfolio-tile" href="{{ file.path | relative_url }}"
+            data-full="{{ file.path | relative_url }}"
+            data-title="{{ post.title | escape }}"
+            data-url="{{ site.baseurl }}{{ post.url }}"
+            {% if caption %}data-caption="{{ caption | escape }}"{% endif %}>
+            <img src="{{ file.path | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
+        </a>
+        {% endif %}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+    </div>
+
+    <div id="portfolio-lightbox" class="portfolio-lightbox" hidden>
+        <div class="portfolio-lightbox-backdrop"></div>
+        <div class="portfolio-lightbox-content">
+            <button type="button" class="portfolio-lightbox-close" aria-label="Close">&times;</button>
+            <img id="portfolio-lightbox-img" src="" alt="">
+            <div class="portfolio-lightbox-caption">
+                <a id="portfolio-lightbox-title" href="#"></a>
+                <p id="portfolio-lightbox-desc"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ site.baseurl }}/assets/portfolio.js" defer></script>
+
+</main>
+
+{% include footer.html %}
+
+</body>
+
+</html>
