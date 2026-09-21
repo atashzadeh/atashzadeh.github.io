@@ -49,11 +49,7 @@ permalink: /post/:slug
 timezone: America/New_York
 future: false
 
-exclude:
-- README.md
-- LICENSE.md
-
-exclude: [vendor]
+exclude: [vendor, README.md, LICENSE.md]
 
 blog: /blog
 
