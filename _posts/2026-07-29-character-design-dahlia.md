@@ -14,14 +14,14 @@ But to me it's still my third! I'll get around to posting the second.
 
 Presenting Dahlia the Red Wolf.
 
-![dahlia wolf](/assets/images/2026-07-29/dahlia.png)
+![dahlia wolf](/assets/images/2026-07-29/dahlia_portfolio.png)
 
 I'm super happy with how this turned out. I'd been getting super frustrated with my lineart, until I realized that the key to getting smooth digital lines is...enabling smoothing. I really wanted to focus on lines and flats for this one, and I'm glad I did that.
 
 Dahlia is based on my character from my first playthrough of Curse of Strahd, a dhampir vampire hunter. Medieval Blade, basically. Here's a costume breakdown I did of her circa 2017.
 
 
-![dahlia wolfe, predecessor](/assets/images/2026-07-29/dahlia_old.png)
+![dahlia wolfe, predecessor](/assets/images/2026-07-29/old_dahlia.png)
 
 (honestly a huge part of why I like character design so much is it satisfies the part of me that grew up using online dollmakers........)
 
