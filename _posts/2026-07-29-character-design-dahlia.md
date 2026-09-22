@@ -5,6 +5,10 @@ subtitle: current read - lolita by vladimir nabokov (1955)
 date: 2026-07-29 18:30:00 +0000
 tags:
 - character-design
+exclude_images:
+- sketch1.png
+- sketch2.png
+- sketch3.png
 
 ---
 
@@ -14,7 +18,7 @@ But to me it's still my third! I'll get around to posting the second.
 
 Presenting Dahlia the Red Wolf.
 
-![dahlia wolf](/assets/images/2026-07-29/dahlia_portfolio.png)
+![dahlia wolf](/assets/images/2026-07-29/dahlia.png)
 
 I'm super happy with how this turned out. I'd been getting super frustrated with my lineart, until I realized that the key to getting smooth digital lines is...enabling smoothing. I really wanted to focus on lines and flats for this one, and I'm glad I did that.
 

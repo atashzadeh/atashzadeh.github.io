@@ -1,0 +1,22 @@
+<aside class="recent-works">
+    <div class="recent-works-grid">
+        {% assign shown_count = 0 %}
+        {% for post in site.posts %}
+        {% if shown_count >= 30 %}{% break %}{% endif %}
+        {% assign post_images = post.content | split: '<img src="' %}
+        {% if post_images.size > 1 %}
+        {% for image_part in post_images offset: 1 %}
+        {% if shown_count >= 30 %}{% break %}{% endif %}
+        {% assign image_src = image_part | split: '"' | first %}
+        {% assign image_basename = image_src | split: '/' | last %}
+        {% unless post.exclude_images and post.exclude_images contains image_basename %}
+        <a class="recent-works-tile" href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title | escape }}">
+            <img src="{{ image_src | relative_url }}" alt="" loading="lazy">
+        </a>
+        {% assign shown_count = shown_count | plus: 1 %}
+        {% endunless %}
+        {% endfor %}
+        {% endif %}
+        {% endfor %}
+    </div>
+</aside>
