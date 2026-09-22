@@ -5,6 +5,10 @@ subtitle: current listen - enya | shepherd moons (1991)
 date: 2026-07-16 09:30:00 +0000
 tags:
 - illustration
+exclude_images:
+- detail1.png
+- detail2.png
+- wip.png
 ---
 
 I had some art breakthroughs this week. I've realized two things:
@@ -18,7 +22,7 @@ The second thing has been true for me in non-art things as well, but here it's a
 
 These two thoughts combined (as well as recent portfolio shares making me realized I have nothing new to show.......) led me to finally push myself to finish a piece that I started maybe two years ago. 
 
-![nocturne dread](/assets/images/2026-07-16/nocturne_dread_portfolio.png)
+![nocturne dread](/assets/images/2026-07-16/nocturne_dread.png)
 
 This is my Curse of Strahd part 2 OC, Nocturne de la Fontaine, warlock (and now paladin!) with Strahd as her patron. Her specialization is undead, so this is her form of dread, quasi-channeling Strahd's power to become super saiyan. 
 
