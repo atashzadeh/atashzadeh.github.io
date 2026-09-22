@@ -12,7 +12,7 @@ Another character design up! This is my novel's antagonist, Casimir Lacrimiscu, 
 
 ![casimir lacramiscu](/assets/images/2026-08-01/casimir.png)
 
-The rococo influence is much stronger here versus [Sonatine's initial design](posts/2026-07-09-character-design-sonatine-addendum.md). I wanted a big red silk cloak, lots of drama, a la Alexander McQueen haute couture. The man is a fop, but he's an evil fop. 
+The rococo influence is much stronger here versus [Sonatine's initial design](character-design-sonatine-addendum). I wanted a big red silk cloak, lots of drama, a la Alexander McQueen haute couture. The man is a fop, but he's an evil fop. 
 
 This is the second round of design, below is the first phase.
 
