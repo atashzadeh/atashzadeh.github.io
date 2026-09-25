@@ -5,6 +5,9 @@ subtitle: current listen - nightwish | century child (2004)
 date: 2026-08-24 09:30:00 +0000
 tags:
 - illustration
+exclude_images:
+- detail1.png
+- detail2.png
 
 ---
 
@@ -18,3 +21,7 @@ Plus I love luna moths (who doesn't?), and have woven them into the dusk elf lor
 
 My goal was to push beyond that and just finish something, regardless of if it was perfect. Luckily, I am pretty happy with the result! I'm a big fan of the way the skin itself came out. There's so much depth to black, and to dark skin in general (even if this is admittedly fantasy dark skin) that is underappreciated.
 
+Here's some detail shots for those of you brave enough to read the whole post:
+
+<img src="/assets/images/2026-08-24/detail1.png" alt ="detail1" width="350">
+<img src="/assets/images/2026-08-24/detail2.png" alt ="detail2" width="350">
