@@ -42,6 +42,10 @@ The thigh-high socks are a new addition, gartered by rope, same as the chemise s
 
 That red pearl at her neck is her spell focus, granted to her by Strahd himself. Her eldritch blast is bats, and in her hand is the sun sword featured in the campaign -- which she officially just started wielding :)
 
+Here's her initial character design from 2024, closer to when the campaign started (honestly at this point I can no longer remember when it Actually started).
+
+![old nocturne character art](/assets/images/2026-07-08/nocturne_new.png)
+
 ## sonatine
 
 ![sonatine character art](/assets/images/2026-07-08/sonatine.png)

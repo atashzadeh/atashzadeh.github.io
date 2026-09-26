@@ -20,3 +20,6 @@ Plus I wanted to draw out her cute little haute couture cloak.
 
 I did debate whether to put her in a skirt over breeches, but a core part of her character is being resigned to a traditionally female role so I felt a skirt was more appropriate. Plus who doesn't love the potential for a little flash of the knee. 
 
+Here's a full view of all the designs, plus bonus pants:
+
+![sonatine's full spectrum](/assets/images/2026-07-09/sonatine_outfit_ref.png)

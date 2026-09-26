@@ -13,4 +13,10 @@ portfolio_images:
   - post: illustration-throne-of-deception
     image: throneofdeception.png
     caption: "throne of deception, digital media 2026"
+  - post: character-design-sonatine-addendum
+    image: sonatine_outfit_ref.png
+    caption: "character design: sonatine, digital media 2026"
+  - post: illustration-sonatine-blood
+    image: sonatine_blood.png
+    caption: "illustration: sonatine blood, digital media 2026"
 ---
