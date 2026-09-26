@@ -11,6 +11,6 @@ portfolio_images:
     image: dahlia.png
     caption: "character design: dahlia, digital media 2026"
   - post: illustration-throne-of-deception
-    image: throne-of-deception.png
+    image: throneofdeception.png
     caption: "throne of deception, digital media 2026"
 ---
