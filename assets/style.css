@@ -266,6 +266,35 @@ i time {
    RECENT WORKS (blog page)
    ============================================================================= */
 
+.recent-works-filters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--spacing-xs);
+    margin-bottom: var(--spacing-sm);
+}
+
+.filter-btn {
+    padding: 0.25em 0.75em;
+    border: 1px solid currentColor;
+    border-radius: var(--radius-sm);
+    background: none;
+    color: inherit;
+    font: inherit;
+    font-size: 0.85em;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity var(--transition-fast) ease;
+}
+
+.filter-btn:hover,
+.filter-btn.is-active {
+    opacity: 1;
+}
+
+.filter-btn.is-active {
+    text-decoration: underline;
+}
 .recent-works {
     margin-bottom: var(--spacing-md);
 }
@@ -292,6 +321,10 @@ i time {
     border-radius: var(--radius-sm);
     box-shadow: 0 1px 3px var(--shadow-color);
     transition: transform var(--transition-fast) ease;
+}
+
+.recent-works-tile[hidden] {
+    display: none;
 }
 
 .recent-works-tile:hover {
