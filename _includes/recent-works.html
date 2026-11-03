@@ -28,19 +28,4 @@
     </div>
 </aside>
 
-<script>
-(function () {
-  var buttons = document.querySelectorAll('.filter-btn');
-  var tiles = document.querySelectorAll('.recent-works-tile');
-  buttons.forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      var f = btn.dataset.filter;
-      buttons.forEach(function (b) { b.classList.toggle('is-active', b === btn); });
-      tiles.forEach(function (t) {
-        var tags = (t.dataset.tags || '').split(' ');
-        t.hidden = !(f === 'all' || tags.indexOf(f) > -1);
-      });
-    });
-  });
-})();
-</script>
+<script src="{{ site.baseurl }}/assets/recent-works.js" defer></script>
