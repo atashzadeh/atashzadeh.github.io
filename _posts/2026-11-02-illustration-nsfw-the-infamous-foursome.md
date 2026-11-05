@@ -37,6 +37,6 @@ Here's before and after I redrew everything:
 <img src="/assets/images/2026-11-02/wip.png" alt ="before" width="250">
 <img src="/assets/images/2026-11-02/lineart.png" alt ="after" width="450">
 
-The before is a little bit more fluid, a little bit more "construct figures" rather than "think about what a figure would look like". I've been taking a foundational illustration class too, and I took the opportunity to incorporate what I've learned there so far. 
+The after is a little bit more fluid, a little bit more "construct figures" rather than "think about what a figure would look like". I've been taking a foundational illustration class too, and I took the opportunity to incorporate what I've learned there so far. 
 
 Lastly, I knew I wanted some kind of high-contrast lighting. A friend pointed me at Caravaggio's [The Calling of St. Matthew](https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew) as some inspiration, which pushed me in the right direction. 
