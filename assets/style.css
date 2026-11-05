@@ -270,26 +270,30 @@ i time {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: var(--spacing-xs);
-    margin-bottom: var(--spacing-sm);
+    gap: var(--spacing-sm) var(--spacing-md);
+    margin-bottom: var(--spacing-lg); /* matches header's margin-bottom */
 }
 
 .filter-btn {
-    padding: 0.25em 0.75em;
-    border: 1px solid currentColor;
-    border-radius: var(--radius-sm);
-    background: none;
-    color: inherit;
     font: inherit;
-    font-size: 0.85em;
+    font-family: var(--font-main);
+    color: var(--link-color);
+    background: none;
+    border: none;
+    border-bottom: 3px solid var(--main-color);
+    border-radius: 0;
     cursor: pointer;
-    opacity: 0.7;
-    transition: opacity var(--transition-fast) ease;
+    transition: all var(--transition-fast) ease;
+}
+
+.filter-btn::before {
+    content: "#";
 }
 
 .filter-btn:hover,
 .filter-btn.is-active {
-    opacity: 1;
+    background-color: var(--main-color);
+    color: var(--hover-color);
 }
 
 .filter-btn.is-active {

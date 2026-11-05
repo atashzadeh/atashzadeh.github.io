@@ -1,9 +1,9 @@
 <aside class="recent-works">
     <nav class="recent-works-filters" aria-label="Filter by tag">
-        <button type="button" class="filter-btn is-active" data-filter="all">All</button>
+        <button type="button" class="filter-btn is-active" data-filter="all">all</button>
         {% assign sorted_tags = site.tags | sort %}
         {% for tag in sorted_tags %}
-        <button type="button" class="filter-btn" data-filter="{{ tag[0] }}">{{ tag[0] | replace: '-', ' ' }}</button>
+        <button type="button" class="filter-btn" data-filter="{{ tag[0] }}">{{ tag[0] }}</button>
         {% endfor %}
     </nav>
     <div class="recent-works-grid">
