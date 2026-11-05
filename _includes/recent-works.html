@@ -1,22 +1,31 @@
 <aside class="recent-works">
+    <nav class="recent-works-filters" aria-label="Filter by tag">
+        <button type="button" class="filter-btn is-active" data-filter="all">all</button>
+        {% assign sorted_tags = site.tags | sort %}
+        {% for tag in sorted_tags %}
+        <button type="button" class="filter-btn" data-filter="{{ tag[0] }}">{{ tag[0] }}</button>
+        {% endfor %}
+    </nav>
     <div class="recent-works-grid">
-        {% assign shown_count = 0 %}
-        {% for post in site.posts %}
-        {% if shown_count >= 30 %}{% break %}{% endif %}
+    {% assign max_tiles = 30 %}
+    {% assign shown_count = 0 %}
+    {% for post in site.posts %}
+        {% if shown_count >= max_tiles %}{% break %}{% endif %}
         {% assign post_images = post.content | split: '<img src="' %}
-        {% if post_images.size > 1 %}
+        {% if post_images.size < 2 %}{% continue %}{% endif %}
+        {% capture post_tags %}{% for t in post.tags %}{{ t }} {% endfor %}{% endcapture %}
         {% for image_part in post_images offset: 1 %}
-        {% if shown_count >= 30 %}{% break %}{% endif %}
-        {% assign image_src = image_part | split: '"' | first %}
-        {% assign image_basename = image_src | split: '/' | last %}
-        {% unless post.exclude_images and post.exclude_images contains image_basename %}
-        <a class="recent-works-tile" href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title | escape }}">
-            <img src="{{ image_src | relative_url }}" alt="" loading="lazy">
-        </a>
-        {% assign shown_count = shown_count | plus: 1 %}
-        {% endunless %}
+            {% if shown_count >= max_tiles %}{% break %}{% endif %}
+            {% assign image_src = image_part | split: '"' | first %}
+            {% assign image_basename = image_src | split: '/' | last %}
+            {% if post.exclude_images contains image_basename %}{% continue %}{% endif %}
+            <a class="recent-works-tile" data-tags="{{ post_tags | strip }}" href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title | escape }}">
+                <img src="{{ image_src | relative_url }}" alt="" loading="lazy">
+            </a>
+            {% assign shown_count = shown_count | plus: 1 %}
         {% endfor %}
-        {% endif %}
-        {% endfor %}
+    {% endfor %}
     </div>
 </aside>
+
+<script src="{{ site.baseurl }}/assets/recent-works.js" defer></script>
