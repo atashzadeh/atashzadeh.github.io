@@ -13,7 +13,7 @@ exclude_images:
 
 Today's illustration: the elf Sonatine and luna moths. 
 
-![sonatine and moths](/assets/images/2026-08-24/sonatine_moths.png)
+![sonatine and moths](/assets/images/2026/08/24/sonatine_moths.png)
 
 This is something I had knocking around in my head for a little bit. I wanted to portray how Sona's skin looks in my head: dark, but lustrous. Like stargazing. 
 
@@ -23,5 +23,5 @@ My goal was to push beyond that and just finish something, regardless of if it w
 
 Here's some detail shots for those of you brave enough to read the whole post:
 
-<img src="/assets/images/2026-08-24/detail1.png" alt ="detail1" width="350">
-<img src="/assets/images/2026-08-24/detail2.png" alt ="detail2" width="350">
+<img src="/assets/images/2026/08/24/detail1.png" alt ="detail1" width="350">
+<img src="/assets/images/2026/08/24/detail2.png" alt ="detail2" width="350">

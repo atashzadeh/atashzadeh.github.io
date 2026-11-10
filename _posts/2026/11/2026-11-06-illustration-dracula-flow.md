@@ -15,7 +15,7 @@ I've got a ~treat~ for you today, blog readers, if there are any of you out ther
 
 A traditional piece! 
 
-![dracula flow](/assets/images/2026-11-06/dracula-flow.jpg)
+![dracula flow](/assets/images/2026/11/06/dracula-flow.jpg)
 
 I'm sure I don't have to tell you about [Dracula Flow](https://www.youtube.com/watch?v=1Onr4z2fdDM), recovered footage of the vampire count himself spittin' bars. 
 
@@ -25,7 +25,7 @@ So it's what I was drawn towards to make a little catharsis piece for leaving my
 
 Here are some thumbnails where I worked out how the head vs text placement should go.
 
-![thumbnails](/assets/images/2026-11-06/thumbs.png)
+![thumbnails](/assets/images/2026/11/06/thumbs.png)
 
 
 

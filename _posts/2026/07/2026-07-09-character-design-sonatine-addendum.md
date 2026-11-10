@@ -5,6 +5,8 @@ subtitle: current listen - my chemical romance | three cheers for sweet revenge 
 date: 2026-07-09 12:30:00 +0000
 tags:
 - character-design
+exclude_images:
+- sonatine.png
 
 ---
 
@@ -12,7 +14,7 @@ tags:
 
 So I took two hours to draft this up:
 
-![sonatine's new fit](/assets/images/2026-07-09/sonatine.png)
+![sonatine's new fit](/assets/images/2026/07/09/sonatine.png)
 
 I wanted to keep a little bit of the baroque influence - it's kind of there in the shape of the vest - but I also went back and refreshed my memory on some traditional Romanian garb. Overall, this is an outfit that I can picture her actually doing stuff in without people going "hey who let the goth elf clown in here".
 
@@ -22,4 +24,4 @@ I did debate whether to put her in a skirt over breeches, but a core part of her
 
 Here's a full view of all the designs, plus bonus pants:
 
-![sonatine's full spectrum](/assets/images/2026-07-09/sonatine_outfit_ref.png)
+![sonatine's full spectrum](/assets/images/2026/07/09/sonatine_outfit_ref.png)

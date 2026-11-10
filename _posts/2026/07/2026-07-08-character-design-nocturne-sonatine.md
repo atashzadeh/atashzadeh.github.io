@@ -22,7 +22,7 @@ The campaign is Curse of Strahd, basically fantasy Dracula if you aren't familia
 
 We'll start with some heads. Everybody loves heads. 
 
-![nocturne and sonatine head refs](/assets/images/2026-07-08/heads.png)
+![nocturne and sonatine head refs](/assets/images/2026/07/08/heads.png)
 
 These are the same exact facial features with different hair and colorings. Nocturne is on top, Sonatine is below. 
 
@@ -32,7 +32,7 @@ The curls sort of just. Happened. They're so much more fun to draw than straight
 
 ## nocturne
 
-![nocturne character art](/assets/images/2026-07-08/nocturne.png)
+![nocturne character art](/assets/images/2026/07/08/nocturne.png)
 
 I wanted Nocturne to be waifish, very classic sword-and-sorcery slash renaissance faire style fantasy. Her chemise is sheer just because I thought that'd be more interesting than red canvas or whatever. 
 
@@ -44,11 +44,11 @@ That red pearl at her neck is her spell focus, granted to her by Strahd himself.
 
 Here's her initial character design from 2024, closer to when the campaign started (honestly at this point I can no longer remember when it Actually started).
 
-![old nocturne character art](/assets/images/2026-07-08/nocturne_new.png)
+![old nocturne character art](/assets/images/2026/07/08/nocturne_new.png)
 
 ## sonatine
 
-![sonatine character art](/assets/images/2026-07-08/sonatine.png)
+![sonatine character art](/assets/images/2026/07/08/sonatine.png)
 
 Nocturne was raised in squalor because Castle Ravenloft is a wreck, Strahd cares much more about his pursuit of Ireena than any kind of maintenance. 
 
