@@ -12,17 +12,15 @@ layout: compress
 
     <div class="portfolio-grid">
         {% for entry in page.portfolio_images %}
-        {% assign expected_url = "/post/" | append: entry.post %}
-        {% assign matches = site.posts | where_exp: "p", "p.url == expected_url" %}
-        {% assign portfolio_post = matches.first %}
-        {% assign post_date = portfolio_post.date | date: "%Y-%m-%d" %}
-        {% assign image_path = "/assets/images/" | append: post_date | append: "/" | append: entry.image %}
-        <a class="portfolio-tile" href="{{ image_path | relative_url }}"
-            data-full="{{ image_path | relative_url }}"
+        {% assign portfolio_post = site.posts | where_exp: "p", "p.path contains entry.post" | first %}
+        {% assign date_path = portfolio_post.date | date: "%Y/%m/%d" %}
+        {% assign image_path = "/assets/images/" | append: date_path | append: "/" | append: entry.image | relative_url %}
+        <a class="portfolio-tile" href="{{ image_path }}"
+            data-full="{{ image_path }}"
             data-title="{{ portfolio_post.title | escape }}"
-            data-url="{{ site.baseurl }}{{ portfolio_post.url }}"
+            data-url="{{ portfolio_post.url | relative_url }}"
             {% if entry.caption %}data-caption="{{ entry.caption | escape }}"{% endif %}>
-            <img src="{{ image_path | relative_url }}" alt="{{ portfolio_post.title | escape }}" loading="lazy">
+            <img src="{{ image_path }}" alt="{{ portfolio_post.title | default: entry.post | escape }}" loading="lazy">
         </a>
         {% endfor %}
     </div>

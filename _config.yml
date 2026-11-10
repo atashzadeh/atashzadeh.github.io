@@ -47,7 +47,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /post/:slug
+permalink: /:year/:month/:day/:title/
 timezone: America/New_York
 future: false
 
