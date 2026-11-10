@@ -19,7 +19,7 @@
             {% assign image_src = image_part | split: '"' | first %}
             {% assign image_basename = image_src | split: '/' | last %}
             {% if post.exclude_images contains image_basename %}{% continue %}{% endif %}
-            <a class="recent-works-tile" data-tags="{{ post_tags | strip }}" href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title | escape }}">
+            <a class="recent-works-tile" data-tags="{{ post_tags | strip }}" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
                 <img src="{{ image_src | relative_url }}" alt="" loading="lazy">
             </a>
             {% assign shown_count = shown_count | plus: 1 %}
