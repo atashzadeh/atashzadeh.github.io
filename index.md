@@ -10,4 +10,6 @@ I'm also working on a novel, which I'm creating illustrations for. check out my 
 
 Feel free to view my [recent works](/recent-works) or my [portfolio](/portfolio).
 
-I've got an Atom (similar to RSS) feed available at [/feed.xml](/feed.xml) so you can use a site like [blogtrottr](https://blogtrottr.com) to keep up to date with my posts. 
+I've got an Atom feed available at [/feed.xml](/feed.xml) so you can use a site like [blogtrottr](https://blogtrottr.com) to keep up to date with my posts. 
+
+I'm open for commissions and projects! Please reach out at my [email](mailto:parisa@atashzadeh.com).
