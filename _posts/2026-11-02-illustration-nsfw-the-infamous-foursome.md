@@ -24,7 +24,7 @@ Late in the game, if you're romancing both Leliana and Zevran (and uh I was usua
 
 So naturally, this is the scene I chose to portray as my homage to BioWare. 
 
-![the infamous foursome](/assets/images/2026-11-02/dao_foursome.png)
+![the infamous foursome](/assets/images/2026/11/02/dao_foursome.png)
 
 I wanted to lean into composition here: I looked through some explicit references but everything was, of course, super tacky and corny and focused on "hey look at all these genitals clashing". Sex without eroticism is cheap. Sure they're fucking, but who cares? 
 
@@ -34,8 +34,8 @@ The lineart troubled me a little. I was quite unhappy with it at first, but it w
 
 Here's before and after I redrew everything:
 
-<img src="/assets/images/2026-11-02/wip.png" alt ="before" width="250">
-<img src="/assets/images/2026-11-02/lineart.png" alt ="after" width="450">
+<img src="/assets/images/2026/11/02/wip.png" alt ="before" width="250">
+<img src="/assets/images/2026/11/02/lineart.png" alt ="after" width="450">
 
 The after is a little bit more fluid, a little bit more "construct figures" rather than "think about what a figure would look like". I've been taking a foundational illustration class too, and I took the opportunity to incorporate what I've learned there so far. 
 

@@ -22,14 +22,14 @@ The second thing has been true for me in non-art things as well, but here it's a
 
 These two thoughts combined (as well as recent portfolio shares making me realized I have nothing new to show.......) led me to finally push myself to finish a piece that I started maybe two years ago. 
 
-![nocturne dread](/assets/images/2026-07-16/nocturne_dread.png)
+![nocturne dread](/assets/images/2026/07/16/nocturne_dread.png)
 
 This is my Curse of Strahd part 2 OC, Nocturne de la Fontaine, warlock (and now paladin!) with Strahd as her patron. Her specialization is undead, so this is her form of dread, quasi-channeling Strahd's power to become super saiyan. 
 
 Here's a couple detail shots:
 
-<img src="/assets/images/2026-07-16/detail1.png" alt ="nocturne dread detail 1" width="350">
-<img src="/assets/images/2026-07-16/detail2.png" alt ="nocturne dread detail 2" width="350">
+<img src="/assets/images/2026/07/16/detail1.png" alt ="nocturne dread detail 1" width="350">
+<img src="/assets/images/2026/07/16/detail2.png" alt ="nocturne dread detail 2" width="350">
 
 
 ## notes & thoughts
@@ -44,7 +44,7 @@ The thing that kept me from finishing this for so long was the _hair_. When I st
 
 Here's a screengrab from that version:
 
-<img src="/assets/images/2026-07-16/wip.png" alt ="nocturne dread wip" width="350">
+<img src="/assets/images/2026/07/16/wip.png" alt ="nocturne dread wip" width="350">
 
 After picking that linework up again this week, I decided to change course because, you know, I'm supposed to find this fun and not so tedious I abandon a piece for 2 years. 
 
