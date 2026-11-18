@@ -8,8 +8,8 @@ my name is jack. sometimes i go by parisa. I've got an upcoming poetry book with
 
 I'm also working on a novel, which I'm creating illustrations for. check out my [blog](/blog) for details.
 
-Feel free to view my [recent works](/recent-works) or my [portfolio](/portfolio).
+Feel free to view my curated [portfolio](/portfolio) or my [recent works](/recent-works) for the whole gamut.
 
-I've got an Atom feed available at [/feed.xml](/feed.xml) so you can use a site like [blogtrottr](https://blogtrottr.com) to keep up to date with my posts. 
+There is an Atom feed available at [/feed.xml](/feed.xml) so you can use a site like [blogtrottr](https://blogtrottr.com) to keep up to date with my posts. 
 
 I'm open for commissions and projects! Please reach out at my [email](mailto:parisa@atashzadeh.com).
