@@ -1,7 +1,6 @@
 ---
 layout: post
 title: illustration - sylvana swiftscale
-subtitle: current watch - better call saul (2015-2022)
 date: 2026-11-09 09:30:00 +0000
 tags:
 - illustration
