@@ -22,5 +22,8 @@ portfolio_images:
   - post: 2026-11-09-illustration-sylvana-swiftscale
     image: sylvanapond.png
     caption: "sylvana swiftscale, digital media 2017"
+  - post: 2026-11-18-illustration-hot-girls-melt-ice
+    image: hotgirlsmeltice.png
+    caption: "HOT GIRLS MELT ICE, mixed media 2026"
 
 ---
